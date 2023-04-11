@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9A02AFF1-2AE1-4F96-98B4-65E7D17FE4A3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF9567FB-CE14-4EEA-B3D4-CEF0E7B0CAC5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestProb/LinkedList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "removeElementFromLinkedList(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EF9567FB-CE14-4EEA-B3D4-CEF0E7B0CAC5 - 20b362917beb17ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestProb.ViewController.removeElementFromLinkedList(Swift.Optional&lt;TestProb.SinglyList&lt;Swift.Int&gt;&gt;, Swift.Int) -&gt; Swift.Optional&lt;TestProb.SinglyList&lt;Swift.Int&gt;&gt;"
+                  moduleName = "TestProb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/philips/Documents/VoiceAssistanceAppp/ProbSolv/TestProb/TestProb/LinkedList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1235">
+               </Location>
+               <Location
+                  uuid = "EF9567FB-CE14-4EEA-B3D4-CEF0E7B0CAC5 - 20b362917beb17ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestProb.ViewController.removeElementFromLinkedList(Swift.Optional&lt;TestProb.SinglyList&lt;Swift.Int&gt;&gt;, Swift.Int) -&gt; Swift.Optional&lt;TestProb.SinglyList&lt;Swift.Int&gt;&gt;"
+                  moduleName = "TestProb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/philips/Documents/VoiceAssistanceAppp/ProbSolv/TestProb/TestProb/LinkedList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1312">
+               </Location>
+               <Location
+                  uuid = "EF9567FB-CE14-4EEA-B3D4-CEF0E7B0CAC5 - 20b362917beb17ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestProb.ViewController.removeElementFromLinkedList(Swift.Optional&lt;TestProb.SinglyList&lt;Swift.Int&gt;&gt;, Swift.Int) -&gt; Swift.Optional&lt;TestProb.SinglyList&lt;Swift.Int&gt;&gt;"
+                  moduleName = "TestProb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/philips/Documents/VoiceAssistanceAppp/ProbSolv/TestProb/TestProb/LinkedList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1230">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
